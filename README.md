@@ -92,13 +92,20 @@ VII. Principales entregables
 
 VIII. Fuentes y referencias
 
-DeBolt, M., et al. (2026). Cyber Threat Intelligence Capability Maturity Model (Version 1.3). CTI-CMM.
+DeBolt, M., Connor, C., Beckwith, N., Bruggink, G.-J., Dennis, N., Doyle, J., Holland, J., Mohr, B., Fokker, J., Hamilton, C., Holvoet, K., Mollema, M., Perez Palma, A., Proehl, L., Shwartz, K., Small, S., Suver, J., Fernandez, C., Vansickle, A., ... Taylor, L. (2026). Cyber Threat Intelligence Capability Maturity Model (Version 1.3). CTI-CMM.
+
 European Union Agency for Cybersecurity. (2020). Cyber Threat Intelligence Overview: ENISA Threat Landscape.
-Costa-Gazcón, V. (2021). Practical Threat Intelligence and Data-Driven Threat Hunting: A Hands-on Guide to Threat Hunting with the ATT&CK Framework and Open Source Tools. Packt Publishing.
-Pace, C. (Ed.). (2018). The Threat Intelligence Handbook: A Practical Guide for Security Teams to Unlocking the Power of Intelligence. CyberEdge Group.
+
+Costa-Gazcón, V. (2021). Practical Threat Intelligence and Data-Driven Threat Hunting: A hands-on guide to threat hunting with the ATT&CK framework and open source tools. Packt Publishing.
+
+Pace, C. (Ed.). (2018). The Threat Intelligence Handbook: A practical guide for security teams to unlocking the power of intelligence. CyberEdge Group.
+
 National Institute of Standards and Technology. (2016). Guide to Cyber Threat Information Sharing (NIST Special Publication 800-150). U.S. Department of Commerce.
-MITRE. (s. f.). MITRE ATT&CK.
-Open Source Research Society. (2020). The Cyber Intelligence Analyst’s Cookbook: Volume 1 — A Primer for Open Source Intelligence Collection and Applied Research.
+
+MITRE. (s. f.). MITRE ATT&CK. https://attack.mitre.org/
+
+Open Source Research Society. (2020). The Cyber Intelligence Analyst’s Cookbook: Volume 1—A primer for open source intelligence collection and applied research.
+
 
 IX. Nota sobre el proyecto / autoría
 
