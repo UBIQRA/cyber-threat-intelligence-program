@@ -92,10 +92,20 @@ VII. Principales entregables
 
 VIII. Fuentes y referencias
 
+DeBolt, M., et al. (2026). Cyber Threat Intelligence Capability Maturity Model (Version 1.3). CTI-CMM.
+European Union Agency for Cybersecurity. (2020). Cyber Threat Intelligence Overview: ENISA Threat Landscape.
+Costa-Gazcón, V. (2021). Practical Threat Intelligence and Data-Driven Threat Hunting: A Hands-on Guide to Threat Hunting with the ATT&CK Framework and Open Source Tools. Packt Publishing.
+Pace, C. (Ed.). (2018). The Threat Intelligence Handbook: A Practical Guide for Security Teams to Unlocking the Power of Intelligence. CyberEdge Group.
+National Institute of Standards and Technology. (2016). Guide to Cyber Threat Information Sharing (NIST Special Publication 800-150). U.S. Department of Commerce.
+MITRE. (s. f.). MITRE ATT&CK.
+Open Source Research Society. (2020). The Cyber Intelligence Analyst’s Cookbook: Volume 1 — A Primer for Open Source Intelligence Collection and Applied Research.
+
 IX. Nota sobre el proyecto / autoría
+
+Este proyecto fue desarrollado como parte de un programa de formación en ciberseguridad. La estructura, plantilla y lineamientos metodológicos iniciales fueron proporcionados por el programa de formación. A partir de ellos, el autor realizó la investigación, selección y organización de referencias, definición del escenario, desarrollo de los requerimientos de inteligencia, análisis, diseño del programa CTI y elaboración de los entregables presentados en este repositorio. El proyecto se publica como evidencia de aprendizaje aplicado y portafolio profesional, respetando la distinción entre el material proporcionado por el programa y el trabajo desarrollado específicamente para este caso.
 
 X. Aviso sobre el caso ficticio
 
-
+RataSoft es una organización ficticia creada exclusivamente con fines académicos, educativos y de portafolio profesional. Los nombres, escenarios, activos, incidentes, indicadores, cifras y demás elementos técnicos u organizacionales presentados en este proyecto son simulados y/o desarrollados con fines demostrativos y no representan información operativa, confidencial o perteneciente a una organización real. Cualquier semejanza con personas, organizaciones o situaciones reales es meramente coincidental.
 
 
